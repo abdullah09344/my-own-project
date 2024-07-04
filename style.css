@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: o;
+.this{
+    background-image:url(32.jpg);
+    height: 100vh;;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.arosh{
+    padding: 150px;
+    width: 1200px;
+    height: auto;
+    margin: 20px;
+    position: relative;
+    color: blue;
+    padding-left: 2px;
+}
+.arosh p{
+    color: purple;
+    font-size: 19px;
+}
+.your{
+    text-decoration: none;
+    font-size: 24px;
+}
+ul{
+    float: right;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+ul li{
+    margin-right: 70px;
+    margin-top: 10px;
+    list-style: none;
+}
+    
